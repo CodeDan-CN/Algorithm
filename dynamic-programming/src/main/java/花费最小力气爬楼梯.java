@@ -6,7 +6,6 @@
  * @Version: 1.0.0
  **/
 public class 花费最小力气爬楼梯 {
-
     public static int minCostClimbingStairs(int[] cost) {
         // 这题主要是理解一下，到楼顶啊，不是到数组最后一个元素就可以了，所以得最后一步得超过数组边界
         // 动态规划五步法
